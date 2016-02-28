@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "de-carufel-family-project",
+  "private_key_id": "1f091160860c99143b04192ec2cfb394a512118f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4kG+VL8Igp0Cp\nYKqC3txpoUCYkppQtcjAlg/6xSLsr4udXVdUYX7Jx401BOyewVrgJtrCoQcYQEVF\nTc2qH/dZeg4t9XVanTzRea8zhZQW2DrOdI9mSq3F1OwODHBeMC9RG0NkGZNxTfFh\n4zmJh8UwXmrV0RE0M6TO9okblm057o9HOwIcX7jHXjZLAtS7VqLjXZXBeW3GCWol\nS9JWq9J/hDfJ1+5rFCo2uXKW8UW4kRWtzGZhwSyd92yqbw19lYta9j5lepg2POy6\nhYfPD1vC4z6fXQPmqtZ4u0G1rHSrfEQxtfsGvl9EgBkmZ7PzxjE08T3+VPSW5WjE\nNE005srpAgMBAAECggEAAWkxQS21STSeHO1dQFTd0HzoFoKAZX+OQlKjWqJpKvAI\nnDJbeYypQHejD7Wy7V/DBxWk9HnwqPHM1cPLf7Jw3KE/PIC03fV3wo4wla8+u5H5\nmRxxADIv8+Q1zcGwlje+FNulfz1m0CXtY3cuOGvuSPlfzbSkcga3CtH9qFVVDm1O\nHjVsHjpaVd7Om9Y1nrNqVf6NDA64MX6XpXjo2fOPvi2YgdhcAaaFHGnBTtkPvkJl\n8o7DgO7B6t9Hwq8f5JQ++AcoyKPDl0ALsb7tLgeFBx/f5jIL5Ji1ac+Tf9bq0qQA\nhx3pg7whB3AOTE17pT7yTB/99QfZTBv2518ixmLtZQKBgQDcsLxCaobGAK5mrbHN\nDRfKsiQ0BWVqpLHCrde0JdgMtzvtJdmO26MGzskuBMWV4Oh/r9ON2vmQh0LTUK7L\nFr2E9tn0kA7NR6u32pp0dR95stGaYeMuzhYPU3+DaIwLgpbgsQmLrovdDNcsugmQ\nKmRZ5uldimINVU25SIGsIh7ZDwKBgQDWGAHnN/55DJ4xZLDcSxkDaoLxAjOQj9K6\nVvpW+vas4KLlPd2/G7Eh6EMwVa+6aLQ7kk2jB2mqldaC4sB5vSDQmS/NQfq/ruF1\nXU04rN57BuvRK56T344hUrc91VhHqT2zqllVdwnARGQTld5r+RyU11YDsuX2GJSc\n6o9L+/BshwKBgQC6FjiYFDUSbm6gW+Pp0Bl4rB+E0ewDMV5GlsmkuKhliHf6boj1\nQdREoEbZC+MDj0LcsAjFu5fmO3eosYbB7qndnTyJUJN6mu17uNO2UTA6MQM2l0W2\nKMZHJBQIXTaBWhsY2Y7//i0nNnWV3ETGEEjP2bp7Sn2FWqGQE0hsOdUjFwKBgHdR\nh/YCWfvC0YN7t6n+3KDvwqxpaq2dynb5tKm3UrVEuOSEV0qEN3NLS+7rQnXkltZA\nkq5SmkxtF9F4aIcwpdI8Hc0KgaJE5/iOGFSG27O7RsAbzFRjmoXt4JxAg+PkabPx\nM7qTDkculovn0b9hZdF6NcD3+nvudR0DCPvzHKqPAoGAEQjBWl2EQTkGaecLXJBw\nYAzw8h9AeIhspU+Wo+tTr882PqBcAhXEu9QwNUCuvXkWwmlHT4BSIZBFfqw3KySQ\nAnRhZUdxyOQHTns/ONc9SgvDwotj+1xkOdb0XYSjrxN1Y3RHuUAjX2PBStoA84df\nR/a29Dc84qRIgat0sRD0XZ8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "famille-de-carufel@de-carufel-family-project.iam.gserviceaccount.com",
+  "client_id": "113543176864305186267",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/famille-de-carufel%40de-carufel-family-project.iam.gserviceaccount.com"
+}
