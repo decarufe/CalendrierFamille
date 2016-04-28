@@ -34,9 +34,9 @@ namespace CalendrierFamille
                 var presentation = new Spire.Presentation.Presentation();
                 presentation.LoadFromFile(userProfile + @"\OneDrive\Famille\Menu de la semaine.pptx");
 
-                var shape = (IAutoShape) presentation.Slides[2].Shapes[1];
+                var shape = (IAutoShape) presentation.Slides[3].Shapes[1];
                 GetEvents(shape.TextFrame);
-                var shape2 = (IAutoShape) presentation.Slides[2].Shapes[2];
+                var shape2 = (IAutoShape) presentation.Slides[3].Shapes[2];
                 shape2.TextFrame.Paragraphs.Clear();
                 shape2.TextFrame.Paragraphs.Append(new TextParagraph() {Text = "Dernière mise à jour: " + DateTime.Now.ToString("dddd le d MMMM yyyy @ H:mm").Translate()});
                 presentation.SaveToFile(userProfile + @"\OneDrive\Famille\Menu de la semaine.pptx", FileFormat.Pptx2010);
